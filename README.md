@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 [![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=stonstad&count_private=true&show_icons=true&theme=graywhite)](https://github.com/stonstad/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stonstad&layout=compact)](https://github.com/stonstad)
