@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Cmmits are to private repositories. Gists are available, here: https://gist.github.com/stonstad
+
 <!--
 **stonstad/stonstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
